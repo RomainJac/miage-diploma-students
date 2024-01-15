@@ -3,9 +3,7 @@ package fr.pantheonsorbonne.miage;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
-
 import com.google.common.io.ByteStreams;
-
 
 public class DiplomaFileAdapter extends FileGenerator<AbstractDiplomaGenerator> {
 
